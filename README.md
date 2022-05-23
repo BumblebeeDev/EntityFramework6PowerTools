@@ -1,6 +1,6 @@
 # Entity Framework 6 Power Tools Community Edition
 
-This is a fork of the "official" [EF 6 repository](https://github.com/aspnet/entityFramework6/), which hosts the Visual Studio 2017 and later version of EF Power Tools and also an EF 6 SQL Server provider, that uses the Microsoft.Data.SqlClient ADO.NET provider.  
+This is a fork of the [Entity Framework 6 Power Tools](https://github.com/ErikEJ/EntityFramework6PowerTools) updated to work with Visual Studio 2022.
 
 # What are the Power Tools?
 
@@ -38,13 +38,9 @@ See the [dedicated readme](https://github.com/ErikEJ/EntityFramework6PowerTools/
 
 The Power Tools will remain in "beta" status.
 
-Download the latest released version from [Visual Studio MarketPlace](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EntityFramework6PowerToolsCommunityEdition)
+The release for Visual Studio 2022 is available under [releases](https://github.com/BumblebeeDev/EntityFramework6PowerTools/releases).
 
-Or just install from Tools, Extensions and Updates in Visual Studio! ![](https://github.com/ErikEJ/SqlCeToolbox/blob/master/img/e86.August*Dail1 build**
-
-You can download the daily build from [VSIX Gallery](https://www.vsixgallery.com/extensions/F0A7D01D-4834-44C3-99B2-5907A0701906/extension.vsix). 
-
-Install the [VSIX Gallery Nightly builds extension](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VSIXGallery-nightlybuilds) to get the latest daily build automatically.
+Other releases and builds are available from the [original repository](https://github.com/ErikEJ/EntityFramework6PowerTools).
 
 # How do I contribute
 
@@ -53,6 +49,9 @@ There are lots of ways to contribute, including testing out nighty builds, repor
 If you encounter a bug or have a feature request, please use the [Issue Tracker](https://github.com/ErikEJ/EntityFramework6PowerTools/issues/new).
 
 # Release Notes
+
+## Release 0.9.40523 (May, 2022) - Fork by ITB
+* Readded support for Visual Studio 2022
 
 ## Release 0.9.126 (September, 2021)
 
